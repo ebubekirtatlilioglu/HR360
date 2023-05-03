@@ -1,0 +1,8 @@
+Host: .\MSSQLSERVER2019
+Veritabanı adı: ebubeki3_hr360
+Kullanıcı Adı: ebubeki3_hr360
+pw: #94Z9j5nj
+
+
+connectionString:
+server=.\MSSQLSERVER2019;database=ebubeki3_hr360;uid=ebubeki3_hr360;pwd=#94Z9j5nj
